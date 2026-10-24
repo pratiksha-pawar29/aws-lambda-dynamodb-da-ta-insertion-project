@@ -1,5 +1,3 @@
-aws-lambda-dynamodb-data-insertion-project`, written in a format suitable for your README, project report, and LinkedIn portfolio.
-
 ### AWS Lambda and DynamoDB Data Insertion Project
 
 ![Load test your applications in a CI/CD pipeline using CDK  pipelines and AWS Distributed Load Testing Solution | AWS DevOps & Developer Productivity Blog](https://images.openai.com/static-rsc-4/Yt9mZbx5DgcdjVfYOq9iKKicpdAUEdBopraxlKiMhp34da4TzHUHWo2mQ-kiGuH5gW2gjMBfiu01zROU_QiPD8_nwETjwYAfJsNig4ynVJxXP-Z_vGq_llF9vYKghWbKBy-BbCBHsbHd4H53iqBTnMRRpZsY89ERHd5KXwk2bWDbq7JfJsTZ5I4eA9uSe5Kq?purpose=fullsize)
