@@ -44,10 +44,10 @@ Other technologies: Python, Boto3 (AWS SDK for Python), and the AWS Management C
 
 ### 4\. Architecture
 
+## 🏗️ Architecture
 
-## Architecture Diagram
+![AWS Architecture Diagram](architecture.jpg)
 
-![AWS Lambda and DynamoDB Data Insertion](architecture.jpg)
 ### 5\. How the project works
 
 * Create a DynamoDB table and define its partition key.
