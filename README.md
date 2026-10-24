@@ -47,7 +47,7 @@ Other technologies: Python, Boto3 (AWS SDK for Python), and the AWS Management C
 
 ## Architecture Diagram
 
-![AWS S3 Static Website Hosting Architecture](architecture.jpg)
+![AWS Lambda and DynamoDB Data Insertion](architecture.jpg)
 ### 5\. How the project works
 
 * Create a DynamoDB table and define its partition key.
