@@ -46,7 +46,7 @@ Other technologies: Python, Boto3 (AWS SDK for Python), and the AWS Management C
 
 ## 🏗️ Architecture
 
-![AWS Architecture Diagram](architecture.jpg)
+![AWS Architecture Diagram](Architecture.jpg)
 
 ### 5\. How the project works
 
