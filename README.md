@@ -44,24 +44,10 @@ Other technologies: Python, Boto3 (AWS SDK for Python), and the AWS Management C
 
 ### 4\. Architecture
 
-User / Test Event
 
-Provides data to insert
+## Architecture Diagram
 
-AWS Lambda
-
-Executes the Python function
-
-IAM Execution Role
-
-Authorizes DynamoDB write access
-
-Amazon DynamoDB
-
-Stores the new item
-
-Note: API Gateway is optional. Add it if your implementation accepts HTTP requests through an API.
-
+![AWS S3 Static Website Hosting Architecture](architecture.jpg)
 ### 5\. How the project works
 
 * Create a DynamoDB table and define its partition key.
