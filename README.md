@@ -1,0 +1,1 @@
+# aws-lambda-dynamodb-da-ta-insertion-project
