@@ -17,6 +17,9 @@ JSON
 AWS Management Console
 Architecture
 AWS_Lambda_DynamoDB_Architecture
+## Architecture Diagram
+
+![AWS S3 Static Website Hosting Architecture](architecture.jpg)
 
 Architecture Flow
 Test Event → AWS Lambda → Amazon DynamoDB
